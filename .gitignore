@@ -5,5 +5,5 @@ target/
 *.ipr
 .idea/
 mvnw/
-.gitattributes/
+.gitattributes
 HELP.md
